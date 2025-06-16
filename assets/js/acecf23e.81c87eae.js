@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcensus_galaxy=self.webpackChunkcensus_galaxy||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/censusgalaxy/blog","blogTitle":"Blog","authorsListPath":"/censusgalaxy/blog/authors"}')}}]);

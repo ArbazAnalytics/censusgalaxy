@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcensus_galaxy=self.webpackChunkcensus_galaxy||[]).push([[608],{2957:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/censusgalaxy/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
